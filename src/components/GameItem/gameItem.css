@@ -2,7 +2,7 @@
 	text-decoration: none;
 	color: white;
 	width: 320px;
-	height: 300px;
+	height: 290px;
 	background-color: rgb(36,37,41);
 	border-radius: 15px;
 	cursor: pointer;
@@ -37,6 +37,6 @@
 
 .game-item__byu {
 	position: absolute;
-	right: 0;
-	bottom: -12px;
+	right: 10px;
+	bottom: 10px;
 }
